@@ -1,0 +1,59 @@
+﻿<Window x:Class="assesment3.Manager"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:assesment3"
+        mc:Ignorable="d"
+        Title="Manager" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Grid.Column="0" Height="50" Orientation="Horizontal">
+            <Label Content="Name"></Label>
+            <TextBox Name="txtname" Height="30" Width="150" Margin="0,-50,0,-30"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Row="0" Grid.Column="1" Height="50" Orientation="Horizontal" Grid.ColumnSpan="2" Margin="212,18,54,19">
+            <Label Content="ID"></Label>
+            <TextBox Name="txtid" Height="30" Width="150" Margin="0,-50,0,-30"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Row="0" Grid.Column="0" Height="50" Orientation="Horizontal" Grid.ColumnSpan="2" Margin="232,18,34,19">
+            <Label Content="PDescription"></Label>
+            <TextBox Name="txtdes" Height="30" Width="150" Margin="0,-50,0,-30"></TextBox>
+        </StackPanel>
+        <DataGrid Name="dgemp" Grid.Row="1" Grid.ColumnSpan="3" AutoGenerateColumns="False" Margin="96,0,171,86" Grid.RowSpan="2" SelectionChanged="dgemp_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ProjectID" Binding="{Binding ProjectID}"></DataGridTextColumn>
+                <DataGridTextColumn Header="PName" Binding="{Binding PName}"></DataGridTextColumn>
+                <DataGridTextColumn Header="PDescription" Binding="{Binding PDescription}"></DataGridTextColumn>
+                <DataGridTextColumn Header="StartDate" Binding="{Binding StartDate,StringFormat=dd/MM/yyyy}"></DataGridTextColumn>
+                <DataGridTextColumn Header="EndDate" Binding="{Binding EndDate,StringFormat=dd/MM/yyyy}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Orientation="Horizontal" Width="330" Grid.Row="2" Grid.ColumnSpan="2" Margin="118,5,85,81" Grid.RowSpan="2">
+            <Button Grid.Column="1" Grid.Row="2" Content="Add" Height="40" Width="90" Margin="10" Click="Button_Click"></Button>
+            <Button Grid.Column="1" Grid.Row="2" Content="Edit" Height="40" Width="90" Margin="10" Click="Button_Click_1"></Button>
+            <Button Grid.Column="1" Grid.Row="2" Content="Delete" Height="40" Width="90" Margin="10" Click="Button_Click_2"></Button>
+        </StackPanel>
+        <ComboBox Name="cmb" Grid.Row="3" Height="40" Grid.ColumnSpan="2" Margin="88,24,179,23" />
+        <DataGrid Name="dgtask" Grid.Row="2" Width="300" Grid.Column="1" AutoGenerateColumns="False" Margin="223,42,10,43" Grid.RowSpan="2" Grid.ColumnSpan="2">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="TaskID" Binding="{Binding TaskID}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Title" Binding="{Binding Title}"></DataGridTextColumn>
+                <DataGridTextColumn Header="TStatus" Binding="{Binding TStatus}"></DataGridTextColumn>
+                <DataGridTextColumn Header="DueDate" Binding="{Binding DueDate,StringFormat=dd/MM/yyyy}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Assign" Grid.Column="1" Grid.Row="4" Width="70" Height="40" Click="Button_Click_3"></Button>
+    </Grid>
+</Window>

@@ -1,0 +1,33 @@
+﻿<Window x:Class="assesment3.Developer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:assesment3"
+        mc:Ignorable="d"
+        Title="Developer" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <DataGrid Name="dgta" Grid.ColumnSpan="2" Width="490" Margin="33,13,10,74" Grid.RowSpan="3" SelectionChanged="dgta_SelectionChanged">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="TaskID" Binding="{Binding TaskID}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Title" Binding="{Binding Title}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="TStatus" Binding="{Binding TStatus}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="DueDate" Binding="{Binding DueDate,StringFormat=dd/MM/yyyy}"></DataGridTextColumn>
+                </DataGrid.Columns>
+        </DataGrid>
+        <ComboBox Name="cmb" Grid.Column="2" Width="100" Height="30"></ComboBox>
+        <Button Content=" Edit" Grid.Column="1" Grid.Row="2" Width="100" Height="50" Click="Button_Click"></Button>
+    </Grid>
+</Window>

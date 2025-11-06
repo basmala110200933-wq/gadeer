@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BasmallaMohamedj0324146\\assesment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|d:\\basmallamohamedj0324146\\assesment3\\manager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|solutionrelative:manager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|d:\\basmallamohamedj0324146\\assesment3\\manager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|solutionrelative:manager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|d:\\basmallamohamedj0324146\\assesment3\\developer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|solutionrelative:developer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|d:\\basmallamohamedj0324146\\assesment3\\model\\tasked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|solutionrelative:model\\tasked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|d:\\basmallamohamedj0324146\\assesment3\\developer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|solutionrelative:developer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|d:\\basmallamohamedj0324146\\assesment3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|d:\\basmallamohamedj0324146\\assesment3\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|d:\\basmallamohamedj0324146\\assesment3\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|solutionrelative:model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|d:\\basmallamohamedj0324146\\assesment3\\data\\dcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|solutionrelative:data\\dcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|d:\\basmallamohamedj0324146\\assesment3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72D3CB2E-CB40-401E-85CA-35C9BB67BE34}|assesment3.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 794,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Developer.xaml.cs",
+              "DocumentMoniker": "D:\\BasmallaMohamedj0324146\\assesment3\\Developer.xaml.cs",
+              "RelativeDocumentMoniker": "Developer.xaml.cs",
+              "ToolTip": "D:\\BasmallaMohamedj0324146\\assesment3\\Developer.xaml.cs",
+              "RelativeToolTip": "Developer.xaml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:43:58.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Developer.xaml",
+              "DocumentMoniker": "D:\\BasmallaMohamedj0324146\\assesment3\\Developer.xaml",
+              "RelativeDocumentMoniker": "Developer.xaml",
+              "ToolTip": "D:\\BasmallaMohamedj0324146\\assesment3\\Developer.xaml",
+              "RelativeToolTip": "Developer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T07:08:13.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.xaml.cs",
+              "DocumentMoniker": "D:\\BasmallaMohamedj0324146\\assesment3\\Manager.xaml.cs",
+              "RelativeDocumentMoniker": "Manager.xaml.cs",
+              "ToolTip": "D:\\BasmallaMohamedj0324146\\assesment3\\Manager.xaml.cs",
+              "RelativeToolTip": "Manager.xaml.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAmwIMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:26:03.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.xaml",
+              "DocumentMoniker": "D:\\BasmallaMohamedj0324146\\assesment3\\Manager.xaml",
+              "RelativeDocumentMoniker": "Manager.xaml",
+              "ToolTip": "D:\\BasmallaMohamedj0324146\\assesment3\\Manager.xaml",
+              "RelativeToolTip": "Manager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T07:08:26.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tasked.cs",
+              "DocumentMoniker": "D:\\BasmallaMohamedj0324146\\assesment3\\Model\\Tasked.cs",
+              "RelativeDocumentMoniker": "Model\\Tasked.cs",
+              "ToolTip": "D:\\BasmallaMohamedj0324146\\assesment3\\Model\\Tasked.cs",
+              "RelativeToolTip": "Model\\Tasked.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:55:02.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\BasmallaMohamedj0324146\\assesment3\\Model\\Project.cs",
+              "RelativeDocumentMoniker": "Model\\Project.cs",
+              "ToolTip": "D:\\BasmallaMohamedj0324146\\assesment3\\Model\\Project.cs",
+              "RelativeToolTip": "Model\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:53:38.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\BasmallaMohamedj0324146\\assesment3\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "D:\\BasmallaMohamedj0324146\\assesment3\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:52:58.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DContext.cs",
+              "DocumentMoniker": "D:\\BasmallaMohamedj0324146\\assesment3\\Data\\DContext.cs",
+              "RelativeDocumentMoniker": "Data\\DContext.cs",
+              "ToolTip": "D:\\BasmallaMohamedj0324146\\assesment3\\Data\\DContext.cs",
+              "RelativeToolTip": "Data\\DContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T05:53:29.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\BasmallaMohamedj0324146\\assesment3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\BasmallaMohamedj0324146\\assesment3\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T05:52:10.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\BasmallaMohamedj0324146\\assesment3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\BasmallaMohamedj0324146\\assesment3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAWwC0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T05:52:05.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
